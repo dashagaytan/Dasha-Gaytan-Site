@@ -1,0 +1,38 @@
+/************lOGO-IMG STYLES*******/
+.html-logo{
+    width: 25%;
+}
+
+.css-logo{
+    width: 25%;
+}
+
+.bootstrap-logo{
+    width: 25%;
+}
+
+.js-logo{
+    width: 25%;
+}
+
+.angular-logo{
+    width: 25%;
+}
+
+.github-logo{
+    width: 25%;
+}
+
+.vscode-logo{
+    width: 25%;
+}
+
+.profile-img{
+    margin-top: 60px;
+}
+
+.github-contact-me, .linkedin, .dashaGaytan-contact-me {
+    width: 2.5rem;
+    margin-top: 30px;
+    
+}

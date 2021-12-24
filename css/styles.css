@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+a {
+    color: #8267BE;
+    }
+
+    .btn {
+        background: #8267BE;
+        background-image: -webkit-linear-gradient(top, #8267BE, #FD6F96);
+        background-image: -moz-linear-gradient(top, #8267BE, #FD6F96);
+        background-image: -ms-linear-gradient(top, #8267BE, #FD6F96);
+        background-image: -o-linear-gradient(top, #8267BE, #FD6F96);
+        background-image: linear-gradient(to bottom, #8267BE, #FD6F96);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        text-shadow: 1px 1px 3px #cfcbcf;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #FD6F96;
+        background-image: -webkit-linear-gradient(top, #FD6F96, #ffd3df);
+        background-image: -moz-linear-gradient(top, #FD6F96, #ffd3df);
+        background-image: -ms-linear-gradient(top, #FD6F96, #ffd3df);
+        background-image: -o-linear-gradient(top, #FD6F96, #ffd3df);
+        background-image: linear-gradient(to bottom, #FD6F96, #ffd3df);
+        text-decoration: none;
+      }
+
+h1 {
+    color: #6F69AC;
+    font-size: 5.6rem;
+    font-family: 'Oooh Baby', cursive;
+    font-weight: normal;
+    margin: 50px auto 50px auto;
+}
+
+h2 {
+color: #6F69AC;
+font-family:'Montserrat', serif;
+font-size: 1.5rem;
+font-weight: bold;
+padding-bottom: 25px;
+}
+
+h3{
+color: #8267BE;
+font-family:'Montserrat', serif;
+text-align: center;
+}
+
+hr {    
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 10px;
+    border-color: #FD6F96;
+    padding-top: 25px;
+}
+
+/************* CLASS STYLES************/
+
+.top-container {
+    background-color: #ffd3df;
+    position: relative;
+    padding-top: 100px;
+}
+
+.about-me{
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.contact-me {
+    padding-bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #FD6F96;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.get-in-touch{
+    padding-bottom: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: center;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.cloud-bottom {
+    position: absolute;
+    left: 150px;
+    bottom: 100px;
+}
